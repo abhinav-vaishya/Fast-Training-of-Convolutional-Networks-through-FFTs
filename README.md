@@ -6,8 +6,8 @@
 - Pragun Saxena
 
 ### To run cuda(.cu) code
-> nvcc fft.cu
->> ./a.out n k b
-- n - input size, k - kernel size, b - batch size
-> output - n,k,b,time
++ nvcc fft.cu
++ ./a.out n k b
++ n - input size, k - kernel size, b - batch size
++ output - n,k,b,time
 
